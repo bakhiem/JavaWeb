@@ -1,0 +1,152 @@
+div{
+	display: block;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+	background-color: transparent;
+}
+.fix-thumbnail{
+	background-color: #0F204B;
+	border: 0;
+	display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+.header-bg{
+	background: #0F204B;
+    padding-top: 1px;
+    padding-bottom: 5px;
+   
+    
+}
+i.fa.fa-arrow-right {
+    float: right;
+    margin-top: 22px;  
+}
+#ListChuyen{
+    margin-top: 15px;
+}
+#ListChuyen td {
+    height: 60px;
+    line-height: 60px;
+   
+}
+#ListChuyen th {
+    border: none;
+    font-size: 15px;
+    
+}
+.container {
+	padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row{
+	margin-right: -10px;
+    margin-left: -10px;
+}
+.home{
+	float: left;
+}
+.primary-menu {
+	margin-top: 15px;
+}
+.nav-menu ul {
+	padding: 0;
+	margin: 0;
+}
+.nav-menu a li{
+	list-style-type: none;
+	position: relative;
+	 display: inline-block;
+    text-align: -webkit-match-parent;
+    color: white;
+   
+    padding: 10px 10px 10px 20px;
+    margin-left: 10px;
+}
+.slider-content {
+	
+	height: 460px;
+}
+.search-content{
+	display: block;
+	border: 0px solid transparent;
+	margin-left: 340px;
+}
+#banner-group{
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+    text-align: center;
+    color: #0F204B;
+    font-size: 15px;
+    background: #FECB00;
+    font-weight: 600px;
+}
+.font-form {
+	background: rgba(79,79, 79, 0.5);
+	display: block;
+	border-radius: 10px;
+	height: 330px;
+        width: 388px;
+        margin-bottom: 70px;
+        margin-left: 300px;
+}
+.text-search{
+	font-size: 25px;
+	font-weight: 500;
+	color: orange;
+	font-family: tahoma;
+	
+	text-transform: uppercase;
+	padding: 20px;
+}
+.fix-vt{
+	margin-top: 15px;
+	margin-left: 20px;
+	padding-top: 10px;
+	color: white;
+	font-size: 15px;
+	
+}
+.btnSUbmit{
+	margin-left: 20px;
+    margin-top: 25px;
+
+}
+.fix{
+	padding-top: 18px;
+}
+ul#menu-top-menu li {
+    display:inline-block;
+}
+ul#menu-top-menu li a {
+    display: inline-block;
+    padding: 15px;
+    color: #c6c4c4;
+    padding-left: 25px;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+}
+ul#menu-top-menu li a:hover{
+	color:white
+}
+#slide-search.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+div#myCarousel {
+    margin-top: -20px;
+}
+input#btnsearch {
+    background: orange;
+    color: black;
+}
